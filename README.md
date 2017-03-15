@@ -1,1 +1,2 @@
 # Scripts-ThesisPrograms-DeepLearning
+  This is a part of my Master Thesis project. I am trying to Efficiently detect Ransomware using Deep Learning Technique. I am completely new tto machine learning. So far what I have understood is that, deep learning and machine learning as whole takes numbers as inputs and not text strings, so these scripts are going to assist me in forming  numeric metrics from textual data.
