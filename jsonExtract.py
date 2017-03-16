@@ -1,6 +1,6 @@
-#python script for extracting JSON strings from cuckoo sandbox output
-#An object with string containing multiple string:value pairs (nested string:value pairs) <== This is our struggle
-
+#Parser Script to extract Cuckoo Reports Values from JSON to Text>
+ #   Copyright (C) 2017  <Shaunak Ganorkar @shaunakganorkar>
+    
 import os
 import json
 from pprint import pprint
